@@ -15,7 +15,7 @@ visitors can keep track of all the important NCAAF D1AA team standings and stats
 
 Please note, this *Lite* edition contains NO Ads, NO text links, and NO References to the plugin author. It is completely free to use and is easy to install using WP's plugin installer.
 
-This plugin is licensed under WordPress.org guidelines and <a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">General Public License</a>.
+This plugin is licensed under WordPress.org guidelines and <a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">General Public License</a>. Examples of sites include personal blogs, business sites, stats aggregators, <a href="http://www.nfl-betting.com" target="_blank">NFL betting</a> websites, and any other entertainment related <a href="http://www.online-casinos-online.us" target="_blank">online casinos</a> sites.
 
 If the blogger is interested in more advanced stats, a link to a website with more information is provided on the plugin's control panel page. Note, NO links to advanced stats plugins are advertised within the stats output that appear on the blog itself. The display on the blogger's website is completely, 100% ad free.
 
